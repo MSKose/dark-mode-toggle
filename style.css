@@ -17,7 +17,8 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    
+
+    transition: var(--transition-delay);
     background-color: var(--bg-color);
     color: var(--text-color);
 }
